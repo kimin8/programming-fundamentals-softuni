@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VY8GnAhlBdo9V6WHVV6iASV8l2k3J+VE7Jq6egnooe7rhnZkvWByROIhbs+VIVT28N9p+UTu0aSWlxtbGUOJ7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\programming-fundamentals\\intro-and-basic-syntax\\03. Passed or Failed\\03. Passed or Failed\\03. Passed or Failed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

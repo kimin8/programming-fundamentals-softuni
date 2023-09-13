@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Yudyl6v8+elvmbKkm31x0hzuMclh797TKzpmMijZs5EdFvOZR8Oa+CozoLTX9xRifsJlw9j3uFU+0RsLnbMWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\programming-fundamentals\\intro-and-basic-syntax\\04. Back In 30 Minutes\\04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
