@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHXq6NSt6NLk06HEsKpLBzp0vRd1xmhqQYyCg2BsixavAAPeCFHqhAw6xe2E5y62Rz3A8rmeGuP1iCWI+keQeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\programming-fundamentals\\intro-and-basic-syntax\\08. Divisible by 3\\08. Divisible by 3\\08. Divisible by 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
