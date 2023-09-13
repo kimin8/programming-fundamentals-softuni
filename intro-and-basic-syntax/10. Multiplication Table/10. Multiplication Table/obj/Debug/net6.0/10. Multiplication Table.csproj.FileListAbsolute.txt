@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\bin\Debug\net6.0\10. Multiplication Table.exe
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\bin\Debug\net6.0\10. Multiplication Table.deps.json
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\bin\Debug\net6.0\10. Multiplication Table.runtimeconfig.json
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\bin\Debug\net6.0\10. Multiplication Table.dll
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\bin\Debug\net6.0\10. Multiplication Table.pdb
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.dll
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\refint\10. Multiplication Table.dll
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.pdb
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\10. Multiplication Table.genruntimeconfig.cache
+C:\Users\AMD\Desktop\The C# Arc\programming-fundamentals\intro-and-basic-syntax\10. Multiplication Table\10. Multiplication Table\obj\Debug\net6.0\ref\10. Multiplication Table.dll

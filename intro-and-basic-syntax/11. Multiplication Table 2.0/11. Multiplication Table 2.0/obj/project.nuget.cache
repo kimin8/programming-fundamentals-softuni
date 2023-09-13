@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gBn+zrnZvEugTG+r6lsABlYg9sWssSMLb6XJ7I4sF9O1buJr5SVn1G98fWdMKZK9YoGpBN5r5i/sBRDZsNvegA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\The C# Arc\\programming-fundamentals\\intro-and-basic-syntax\\11. Multiplication Table 2.0\\11. Multiplication Table 2.0\\11. Multiplication Table 2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
